@@ -1,9 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "filmes": [
+    {
+      "banner_mobile": "/img/hub/missão_de_sobrevivencia-mobile.jpg",
+      "banner_desktop": "/img/hub/missão_de_sobrevivencia.jpg",
+      "banner_logo": "/img/hub/logo-missão_de_sobrevivencia.png",
+      "sinopse": "Lorem ipsum dolor sit amet consectetur. Bibendum purus nibh imperdiet morbi vitae. Condimentum scelerisque egestas mauris elementum pellentesque in morbi iaculis. Cursus velit duis morbi amet sed dictumst. Non vel vitae non suspendisse sit tortor. Facilisis in ut ac viverra quam blandit. Dignissim ut viverra sit sollicitudin dictum dui in lectus mauris. Euismod aenean faucibus quis interdum nulla ut. Dui volutpat eu tincidunt aenean fringilla nam dictumst hac. Libero ligula quam nulla euismod ut ut lectus dictum convallis. Congue nunc tristique pulvinar habitant nulla posuere at laoreet egestas. Lacinia eget viverra viverra tellus. Commodo semper massa vel tellus maecenas et odio rutrum pharetra.",
+      "poster_sinopse": "/img/hub/poster-missão_de_sobrevivencia.png",
+      "classificacao": "14",
+      "classificacao_desc": "Não recomendado para menores de 14 anos",
+      "titulo_internacional": "missão de sobrevivencia",
+      "duracao": "2h30min",
+      "genero": "Ação",
+      "elenco": ["Ator 1", "Atriz 1", "Ator 2"],
+      "direcao": "Diretor 1",
+      "data_estreia": "2024-02-24",
+      "data_pre_estreia": "2024-02-21",
+      "trailer_principal": "link_trailer1.mp4",
+      "campanha_instagram": "link_campanha_instagram1.jpg",
+      "videos": ["link_video1.mp4", "link_video2.mp4"],
+      "galeria": [ "/img/hub/fotos/foto1.png","/img/hub/fotos/foto2.png","/img/hub/fotos/foto3.png","/img/hub/fotos/foto4.png","/img/hub/fotos/foto5.png","/img/hub/fotos/foto6.png","/img/hub/fotos/foto7.png","/img/hub/fotos/foto8.png","/img/hub/fotos/foto9.png","/img/hub/fotos/foto10.png"], 
+      "cor_principal": "#ff0000",
+      "id_vibezz_movie": "123456",
+      "status": "ativo",
+      "streaming": ["Netflix", "Amazon Prime"]
+    }
+  ]
 }
