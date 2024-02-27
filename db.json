@@ -17,7 +17,7 @@
       "data_pre_estreia": "2024-02-21",
       "trailer_principal": "link_trailer1.mp4",
       "campanha_instagram": "link_campanha_instagram1.jpg",
-      "videos": ["link_video1.mp4", "link_video2.mp4"],
+      "videos": ["https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ", "https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ", "https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ", "https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ"],
       "galeria": [ "/img/hub/fotos/foto1.png","/img/hub/fotos/foto2.png","/img/hub/fotos/foto3.png","/img/hub/fotos/foto4.png","/img/hub/fotos/foto5.png","/img/hub/fotos/foto6.png","/img/hub/fotos/foto7.png","/img/hub/fotos/foto8.png","/img/hub/fotos/foto9.png","/img/hub/fotos/foto10.png"], 
       "cor_principal": "#ff0000",
       "id_vibezz_movie": "123456",
