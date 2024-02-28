@@ -1,28 +1,1324 @@
 {
-  "filmes": [
+  "movie/get": [
     {
-      "banner_mobile": "/img/hub/missão_de_sobrevivencia-mobile.jpg",
-      "banner_desktop": "/img/hub/missão_de_sobrevivencia.jpg",
-      "banner_logo": "/img/hub/logo-missão_de_sobrevivencia.png",
-      "sinopse": "Lorem ipsum dolor sit amet consectetur. Bibendum purus nibh imperdiet morbi vitae. Condimentum scelerisque egestas mauris elementum pellentesque in morbi iaculis. Cursus velit duis morbi amet sed dictumst. Non vel vitae non suspendisse sit tortor. Facilisis in ut ac viverra quam blandit. Dignissim ut viverra sit sollicitudin dictum dui in lectus mauris. Euismod aenean faucibus quis interdum nulla ut. Dui volutpat eu tincidunt aenean fringilla nam dictumst hac. Libero ligula quam nulla euismod ut ut lectus dictum convallis. Congue nunc tristique pulvinar habitant nulla posuere at laoreet egestas. Lacinia eget viverra viverra tellus. Commodo semper massa vel tellus maecenas et odio rutrum pharetra.",
-      "poster_sinopse": "/img/hub/poster-missão_de_sobrevivencia.png",
-      "classificacao": "14",
-      "classificacao_desc": "Não recomendado para menores de 14 anos",
-      "titulo_internacional": "missão de sobrevivencia",
-      "duracao": "2h30min",
-      "genero": "Ação",
-      "elenco": ["Ator 1", "Atriz 1", "Ator 2"],
-      "direcao": "Diretor 1",
-      "data_estreia": "2024-02-24",
-      "data_pre_estreia": "2024-02-21",
-      "trailer_principal": "link_trailer1.mp4",
-      "campanha_instagram": "link_campanha_instagram1.jpg",
-      "videos": ["https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ", "https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ", "https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ", "https://www.youtube.com/embed/cA4wVhs3HC0?si=vgROHJ9qSvVEzkFQ"],
-      "galeria": [ "/img/hub/fotos/foto1.png","/img/hub/fotos/foto2.png","/img/hub/fotos/foto3.png","/img/hub/fotos/foto4.png","/img/hub/fotos/foto5.png","/img/hub/fotos/foto6.png","/img/hub/fotos/foto7.png","/img/hub/fotos/foto8.png","/img/hub/fotos/foto9.png","/img/hub/fotos/foto10.png"], 
-      "cor_principal": "#ff0000",
-      "id_vibezz_movie": "123456",
-      "status": "ativo",
-      "streaming": ["Netflix", "Amazon Prime"]
+      "id": 7,
+      "title": "Guerra Civil",
+      "originalTitle": "Civil War",
+      "slug": "guerra-civil",
+      "countryOrigin": "Estados Unidos",
+      "contentRating": "Verifique a Classificação",
+      "duration": 110,
+      "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+      "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+      "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+      "director": "Alex Garland",
+      "genre_id": 5,
+      "genre": "",
+      "age": "16",
+      "ageExplain": "Não recomendado para menores de 14 anos",
+      "releasedate": "2024-04-25",
+      "premiereDate": null,
+      "partnerCode": "diamond",
+      "status": "lancamento",
+      "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+      "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+      "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+      "color": "",
+      "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+      "socialCampaign": "",
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+        }
+      ],
+      "images": [
+        {
+          "url": "/img/hub/fotos/foto1.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto2.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto3.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto4.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto5.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto6.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto7.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto9.png"
+        },
+        {
+          "url": "/img/hub/fotos/foto10.png"
+        }
+      ],
+      "streaming": [
+        "Netflix",
+        "Amazon Prime"
+      ]
+    }
+  ],
+  "movie/list-all": [
+    {
+      "releases": [
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        }
+      ],
+      "streaming": [
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 7,
+          "title": "Guerra Civil",
+          "originalTitle": "Civil War",
+          "slug": "guerra-civil",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 110,
+          "synopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "shortSynopsis": "Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.\n",
+          "cast": "Kirsten Dunst, Wagner Moura, Nick Offerman",
+          "director": "Alex Garland",
+          "genre_id": 5,
+          "genre": "",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 14 anos",
+          "releasedate": "2024-04-25",
+          "premiereDate": null,
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://drive.google.com/file/d/1HmPxjY8ZI1aI-0SFJxTgo7hJ8QQcGfyO/view",
+          "bannerMobile": "https://drive.google.com/file/d/1UBIc6_LoTqfr2x-Rxhu3iPdvvt4PK8nL/view",
+          "bannerDesktop": "https://drive.google.com/file/d/1GOmbnJdR67kKJ4ZzVrS9ynDhSiNhNTwb/view",
+          "color": "",
+          "trailer": "https://www.youtube.com/watch?v=WEmIRA4JQfo",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        },
+        {
+          "id": 1,
+          "title": "Ferrari",
+          "originalTitle": "Ferrari",
+          "slug": "ferrari",
+          "countryOrigin": "Estados Unidos",
+          "contentRating": "Verifique a Classificação",
+          "duration": 120,
+          "synopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "shortSynopsis": "Em 1957, nos bastidores da Fórmula 1, o ex-piloto Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua esposa, Laura, construíram do nada uma década atrás. Seu casamento instável é ainda mais abalado pela perda do único filho. Ele decide contrapor essas perdas apostando tudo em uma corrida - a icônica Mille Miglia, na Itália.",
+          "cast": "Adam Driver, Penélope Cruz, Shailene Woodley, Patrick Dempsey, Jack O'Connell, Sarah Gadon.",
+          "director": "",
+          "genre_id": 61,
+          "genre": "Biografia",
+          "age": "16",
+          "ageExplain": "Não recomendado para menores de 16 (dezesseis) anos",
+          "releasedate": "2024-02-22",
+          "premiereDate": "2024-02-22 00:00:34",
+          "partnerCode": "diamond",
+          "status": "lancamento",
+          "cover": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "bannerMobile": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/276f6c43-2186-449d-b796-1f32e17de774.webp",
+          "bannerDesktop": "https://ingresso-a.akamaihd.net/prd/img/movie/ferrari/9c965fbf-6e6e-4f5e-8633-83ad96cafc8e.webp",
+          "color": "#f1f1f1",
+          "trailer": "https://www.youtube.com/watch?v=ERAhei9_Ekc",
+          "socialCampaign": "",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=WEmIRA4JQfo"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            },
+            {
+              "url": "https://www.youtube.com/watch?v=vYoz1pkT4xM"
+            }
+          ],
+          "images": [
+            {
+              "url": "/img/hub/fotos/foto1.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto2.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto3.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto4.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto5.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto6.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto7.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto9.png"
+            },
+            {
+              "url": "/img/hub/fotos/foto10.png"
+            }
+          ],
+          "streaming": []
+        }
+      ]
     }
   ]
 }
